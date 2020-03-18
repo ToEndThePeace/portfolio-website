@@ -4071,3 +4071,6 @@ div#intro {
 div#intro h1, div#intro p {
 	text-shadow: 0 0 10px #000;
 }
+a.image, img {
+	box-shadow: 0 0 10px #000;
+}
